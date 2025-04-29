@@ -17,7 +17,14 @@ This project analyzes healthcare facility data from selected afrcian communities
 ![gggggggggg](https://github.com/user-attachments/assets/2b5cd2ad-c686-4ebd-b453-e2e8a55afe8a)
 
 [Water-Access-And-Sanitation-In-Africa](https://github.com/timiols/Water-Access-And-Sanitation-In-Africa)
-This project analyzes water access and sanitation in African communities to uncover disparities, highlight improvement areas, and provide data-driven recommendations for better infrastructure and policy decisions
+
+using SQL, I analyzed a dataset on  water access and sanitation in African communities so as to uncover disparities, highlight improvement areas, and provide data-driven recommendations for better infrastructure and policy making.
 
 ![Screenshot 2025-04-29 175154](https://github.com/user-attachments/assets/fc08d845-341a-4618-b54d-07f66f0f327e)
 
+##  Connect With Me
+[Linkedin](https://www.linkedin.com/in/olutimilehin-owoseni/)
+
+[X](https://x.com/timiols)
+
+[Email](timiowoseni@gmail.com)
